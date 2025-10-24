@@ -3,7 +3,8 @@
 <p align="center">
   <img src="https://github.com/mathsantana/software-architect-blueprint/blob/main/assets/images/main_image.jpg" />
 </p>
-> *"Trust me! It's the best plan ever"*
+
+> "Trust me! It's the best plan ever"
 
 
 ## Motivation
