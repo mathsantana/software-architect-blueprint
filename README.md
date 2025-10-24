@@ -1,4 +1,4 @@
-# Software Architecture Blueprint
+# Software Architect Blueprint
 
 <p align="center">
   <img src="https://github.com/mathsantana/software-architect-blueprint/blob/main/assets/images/main_image.jpg" />
