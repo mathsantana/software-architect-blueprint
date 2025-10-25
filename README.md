@@ -14,7 +14,7 @@ You know the code, but it's not **ALL** about the code. Write a good software do
 
 ### Requirements Engineering and Agile Product Management
 
-- [Introduction to Requirements Engineering](<notes/requirements_engineering/Introduction to Requirements Engineering>)
+- [Introduction to Requirements Engineering](<notes/requirements_engineering/Introduction to Requirements Engineering.md>)
 - Types of Requirements
 - Quality Characteristics of Software Products
 - Agile Requirements Elicitation (Elicitation Techniques, Ideation, and Product Backlog Building)
