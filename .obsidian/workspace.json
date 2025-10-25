@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "55b960c8da5f9ee0",
+    "type": "split",
+    "children": [
+      {
+        "id": "409d4af3144b6f0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3de2921eb2f0aba8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/requirements_engineering/Introduction to Requirements Engineering.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introduction to Requirements Engineering"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b015a8b0e4ba089f",
+    "type": "split",
+    "children": [
+      {
+        "id": "31be21287f0618ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef9df8ab54b0bb22",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7f3f84f1adfce7ba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "aa6add58b5826254",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "45340b2747716911",
+    "type": "split",
+    "children": [
+      {
+        "id": "21953bf98fcf45a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bbc0fad362c50375",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notes/requirements_engineering/Introduction to Requirements Engineering.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Introduction to Requirements Engineering"
+            }
+          },
+          {
+            "id": "56fd1b85a9421195",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "notes/requirements_engineering/Introduction to Requirements Engineering.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Introduction to Requirements Engineering"
+            }
+          },
+          {
+            "id": "9ac6b6adb5328097",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "81cbdf8fde2b4c03",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "notes/requirements_engineering/Introduction to Requirements Engineering.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Introduction to Requirements Engineering"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "3de2921eb2f0aba8",
+  "lastOpenFiles": [
+    "README.md",
+    "notes/requirements_engineering/Introduction to Requirements Engineering.md",
+    "assets/docs/SDD-ieee-1016-2009.pdf",
+    "assets/docs/swebok-v4.pdf",
+    "assets/docs",
+    "notes/requirements_engineering/\"Introduction.md",
+    "notes/requirements_engineering/Introduction.md",
+    "notes/requirements_engineering/'Introduction.md",
+    "notes/requirements_engineering",
+    "notes",
+    "assets/images/main_image.jpg",
+    "main_image.png",
+    "notes"
+  ]
+}
