@@ -1,8 +1,6 @@
 # Software Architect Blueprint
 
-<p align="center">
-  <img src="https://github.com/mathsantana/software-architect-blueprint/blob/71370f01d8fc9410adfad2d8ec70046152c65543/assets/images/main_image.jpg" />
-</p>
+![MAIN_IMAGE](assets/images/main_image.jpg)
 
 > "Trust me! It's the best plan ever"
 
@@ -14,8 +12,8 @@ You know the code, but it's not **ALL** about the code. Write a good software do
 
 ### Requirements Engineering and Agile Product Management
 
-- [Introduction to Requirements Engineering](<notes/requirements_engineering/Introduction to Requirements Engineering.md>)
-- Types of Requirements
+- [Introduction to Requirements Engineering](<notes/Requirements Engineering/Introduction to Requirements Engineering.md>)
+- [Types of Requirements](<notes/Requirements Engineering/Types of Requirements.md>)
 - Quality Characteristics of Software Products
 - Agile Requirements Elicitation (Elicitation Techniques, Ideation, and Product Backlog Building)
 - Agile Requirements Specification (User Stories, Prototypes, and Acceptance Criteria)

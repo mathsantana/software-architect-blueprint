@@ -1,7 +1,3 @@
-Requirements are features and constraints that users define how the system should behave.
-
-Not defining requirements or not doing it right have a high cost, because all the requirements will lead to one or many code decision, one or maybe many test decisions.
-
 ## Level of requirements
 
 * User requirement
@@ -18,9 +14,9 @@ Not defining requirements or not doing it right have a high cost, because all th
 * Functional requirements
 	* Define what the system should do (behavior)
 	* Input -> Output
-	* What time should program do what 
+		* What time should program do what 
 
-* Non-functional requirements
+* Non-functional requirements (NFRs)
 	* Define what the system should be (characteristics)
 	* Norms and constraints
 	* Requirements of memory, performance

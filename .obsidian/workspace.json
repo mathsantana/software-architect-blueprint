@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/requirements_engineering/Introduction to Requirements Engineering.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction to Requirements Engineering"
+              "title": "README"
             }
           }
         ]
@@ -171,17 +171,18 @@
   },
   "active": "3de2921eb2f0aba8",
   "lastOpenFiles": [
+    "assets/images/main_image.jpg",
     "README.md",
-    "notes/requirements_engineering/Introduction to Requirements Engineering.md",
+    "notes/Requirements Engineering/Types of Requirements.md",
+    "notes/Requirements Engineering/Introduction to Requirements Engineering.md",
     "assets/docs/SDD-ieee-1016-2009.pdf",
     "assets/docs/swebok-v4.pdf",
     "assets/docs",
     "notes/requirements_engineering/\"Introduction.md",
     "notes/requirements_engineering/Introduction.md",
     "notes/requirements_engineering/'Introduction.md",
-    "notes/requirements_engineering",
+    "notes/Requirements Engineering",
     "notes",
-    "assets/images/main_image.jpg",
     "main_image.png",
     "notes"
   ]
