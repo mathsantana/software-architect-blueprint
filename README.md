@@ -1,6 +1,6 @@
 # Software Architect Blueprint
 
-![MAIN_IMAGE](assets/images/main_image.jpg)
+![MAIN_IMAGE](https://i.ibb.co/XfwrFhPY/main-image.jpg)
 
 > "Trust me! It's the best plan ever"
 
